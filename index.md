@@ -1,7 +1,8 @@
-# Hello World
 
+# Hola soy Luis, conocido como Cheems Code   👋
 
-## Hola soy Luis, conocido como Cheems Code   👋
+Adjunto mi historial de github 
+
 
 <div align="center">
   <a href="https://github.com/cheems-dev">
@@ -13,12 +14,9 @@
   <img align="center" alt="Cheems-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Cheems-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cheems-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  
   <img align="right" alt="Cheems-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/iQ9IoqRWknMAAAAC/doge-dance.gif">
 </div>
  
- ##
   
 <div> 
   <a href="https://www.youtube.com/channel/UC0J1vue7cW_Xq1oriEJqcvg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -26,4 +24,37 @@
  	<a href="https://www.behance.net/luisclpz" target="_blank"><img src="https://img.shields.io/badge/Behance-%230077B5?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href = "mailto:daprimovaria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luis-c-2b6b19171" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
+## Educacion
+* **NATIONAL UNIVERSITY OF SAN
+AGUSTÍN ENGINEERING CAMPUS
+Bachelor's** Degree in *Computer
+Science Engineering*
+* **CODIGO**- BY TECSUP
+*Developer Full-Stack*
+    
+## Cursos de carrera
+- [x] Computer Science
+- [x] Algorithms
+- [x] Data Structure
+- [x] Database Systems
+- [x] Genetic Algortihms
+- [x] Cloud Computing
+- [x] Software Engineering
+- [x] Artificial Intelligence
+- [x] Operating Systems
+
+    
+## Proyectos personales/grupales
+    
+### [PEETS - PET AID PLATFORM](https://github.com/CHEEMS-DEV/WEB-PETS) | Developer
+2021 | Coursework Project, University National of San Agustín
+    
+Peet’s se creó para independizar a las ONG de ayuda de las redes sociales. el ágil el desarrollo y la arquitectura Model View Controller fue necesario para el realización del proyecto.
+*  Stack of technologies used by the team: php8.1, laravel 8, mysql 8.0, docker-composer, blade templates, html 5, tailwind.css and cloud services
+
+    
+### [ Quantum-Inspired Evolutionary Algorithm](https://github.com/CHEEMS-DEV/QUANTUM-INSPIRED-EVOLUTIONARY-ALGORITHM) | Colaborator and Developer
+2021 | Coursework Project, University National of San Agustín 
+    
+Utilizamos C++ para crear un marco con estructuras que simulan Qubits (bits cuánticos) y teoría de la física cuántica, rotaciones, puertas cuánticas para optimizar la mochila NP problema utilizando algoritmos genéticos. Obtuvimos picos de optimización en la primera  simulación de ciclos.
